@@ -10,10 +10,18 @@
   {
     "name": "Staked FTM",
     "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
-    "symbol": "sFTM",
+    "symbol": "SFTM",
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://repository.fantom.network/logos/sftm.svg"
+  },
+  {
+    "name": "Crocoswap",
+    "address": "0xA27dC09f46bc032265F8d72c87c6db6300dbC214",
+    "symbol": "CROCO",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0xA27dC09f46bc032265F8d72c87c6db6300dbC214/logo.png"
   },
   {
     "name": "fWTI Oil",
@@ -280,3 +288,4 @@
     "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
   }
 ]
+
